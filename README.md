@@ -33,10 +33,13 @@ Este repositório contém exemplos, exercícios e explicações detalhadas sobre
    ```bash
    git clone https://github.com/seu-usuario/python-basico.git
    ```
+
 2. Navegue até o diretório do projeto:
+
    ```bash
    cd python-basico
    ```
+
 3. Execute os scripts ou abra os notebooks para começar a aprender.
 
 ---
@@ -62,4 +65,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 > **Nota**: Este projeto é voltado para fins educacionais e está em constante evolução. Fique à vontade para sugerir melhorias!
+
 ```
